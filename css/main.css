@@ -153,6 +153,8 @@ hr.default-separator {
     text-align: justify;
     place-self: flex-start center;
     flex-grow: 3; }
+    #vent-desvent .contenido .vent ul p {
+      color: #313642; }
 
 #historia {
   text-align: center;
